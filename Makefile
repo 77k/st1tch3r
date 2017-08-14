@@ -17,7 +17,7 @@ le_build/st1tch3r.o: st1tch3r.cpp
 
 
 clean:
-	rm -rf le_build findiffd;\
+	rm -rf le_build st1tch3r;\
 
 
 le_build:
